@@ -45,7 +45,7 @@ Births / Population x 1000
 
 
 
-**doubling time** - is approximately equal to: 70 / 1.5% = 46.7 years. 
+**doubling time** - is approximately equal to: 70 / x% = y
 Better formula from ChatGPT (it's a search engine):
 T=ln(1+r)ln(2)​
 
