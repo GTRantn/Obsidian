@@ -62,4 +62,24 @@ T=ln(1+r)ln(2)​
 
 **Population Growth rate** - Birth rate - Death rate -+ Net migration rate = that
 
+**Life expectancy**
 
+**The demographic revolution**
+
+**Demographic transition**
+
+**Age structure**
+
+**dependency ratio**
+
+**Population pyramid**
+
+**cohorts**
+
+**Canada's population: the past and the future**
+
+**Dependency: too young or too old**
+
+**Case study**
+
+LEFT OFF ON PAGE 331
