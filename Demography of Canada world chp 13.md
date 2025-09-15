@@ -60,55 +60,54 @@ T=ln(1+r)ln(2)​
 
 **net migration rates** - immigration rates - emigration  = that.
 
+
 **Population Growth rate** - Birth rate - Death rate -+ Net migration rate = that
 
 
-**Life expectancy**
+**Life expectancy** - the average number of years that an individual is expected to live, of a little more then 30 years. disease, poor medical care, poor nutrition and unsanitary living conditions can contribute to shower life expectancy and higher death rates.
 
 
-**The demographic revolution**
+**Demographic transition** - it shows changes over a period of time in 3 elements, births, deaths and trends in population. it shows how history affected population such as stage 1 where life is very unstable, you may get a diseases at any time and die, which caused many deaths. at stage 2, you had the industrial revolution and medical innovations such as vaccines and clean drinking water, which caused the death rates to fall rapidly leaving a big gap, the high population was caused because of the many children the earth needed for humanity to survive. at stage 3 people realized that many kids were no longer needed since people now live longer, birth rate declines. at stage 4, kids become expensive, so families commonly have up to 3 kids. at stage 5, the amount of old people there is become most of the population, then people die, and death rates go up.
 
 
-**Demographic transition**
+**Age structure** - helps understand the reasons in population change.
 
 
-**Age structure**
+**dependency ratio** - the working ratio, meaning the percentage of amount of people who contribute towards the governments economy like paying taxes.
 
 
-**dependency ratio**
+**Population pyramid** - a graph that shows the age and sex structure 
 
 
-**Population pyramid**
+**cohorts** - a series of horizontally placed bar graphs to make the sex structure of the pyramid.
 
 
-**cohorts**
+**Canada's population: the past and the future** - we are made of a bunch of immigrants entering the country, which our population growth consist of. and we also have a really old population that might die soon.
 
 
-**Canada's population: the past and the future**
+**Dependency: too young or too old** - no one to maintain the economy can lead to problems like, raised taxes or worse quality of life. having no one to support the economy is a bad thing.
 
 
-**Dependency: too young or too old**
+**Case study** - the one child policy in China, expected to reduce fertility rates, because the government officials believed having too much population would strain their economy and resources. but instead it caused issues like gender imbalancement because parents didn't want girls, some even went unreported meaning they had no ID, no passport and no record of them being there (an issue for the census).
 
 
-**Case study**
+**Population distribution** - refers to the way people are spread over the earth's surface. 
 
 
-**Population distribution**
+**Ecumene** -  the name for the planet earth, or the permanently inhabited places. 
 
 
-**Ecumene**
+**Population density** - describes the number of population in a given area.
 
 
-**Population density**
+**Crude density** - the formula to finding out population density is: population / total land
 
 
-**Crude density**
+**arable** - the amount of untouched land, that can be used to grow food, resources and fresh water. people think the shortages for this land is increasing.
 
 
-**arable**
+**Carrying capacity** - the amount of people the world can sustain before naturally leveling off.
 
-**Carrying capacity**
-
-**Nutritional Density**
+**Nutritional Density** - the amount of food per land, useful to find out if a place has not enough food or enough food like America, which has too much food.
 
 ****
