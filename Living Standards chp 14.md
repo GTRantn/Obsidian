@@ -45,6 +45,7 @@ text here
 **Corrupt leaders and problems:**
 
 ## **The vulnerable ones**:
+Text here
 
 **The position of women**: 
 
@@ -66,12 +67,45 @@ text here
 
 **Working children:**
 
-## **The Health crisis**
+## **The Health crisis**:
+Text here
 
-**Clean water: A basic health**
+**Clean water: A basic health**:
 
+**Diseases found in water**:
 
+**The scourge of epidemics**
 
-CONTINUE ON PAGE 357
+**HIV/AIDS**
+
+**The HIV/AIDS pandemic**
+
+**HIV/AIDS infection rates in africa**
+
+**Epidemic**
+
+**Pandemic**
+
+## **Solutions**:
+Text here
+
+**Foreign Aid:**
+
+**Pros and cons of Aid:**
+
+**Canada's foreign aid program:**
+
+## **Should Canada Link its foreign Aid to human rights?**
+Text here
+
+**The case for denying Aid:**
+
+**The case for giving Aid:**
+
+## **Global Problems, Local solutions:**
+Text here
+
+# Looking Back
+Text here
 
 Note to my self: I may have missed some terms, so go over and check the worksheets from the teacher for stuff on the test.
