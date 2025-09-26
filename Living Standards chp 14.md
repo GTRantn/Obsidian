@@ -28,21 +28,19 @@ the planet has a massive gap between developed countries and developing countrie
 **Scatter graph of GDP, observation**: we can obviously see that there is a big gap, between the poor countries and the developed countries.
 
 ## **The Poverty Trap**:
-text here
+its estimated that 800 million people in developing countries are starving or malnourished. even though, the world produces enough food for 6 billion people. and maybe even more.
 
-**The cycle of poverty:**
+**The cycle of poverty:** a baby gets born, it doesn't get enough food, the baby's develops slowly, it has poor performance in school, low literacy level causes less likelihood of economic development, baby grows into a adult later in life, and gets married at a young age, since they don't have education, they have many kids and no money. (the cycle repeats)
 
-**The burden of death:**
+**The burden of death:** IMF and world bank provide risky loans to countries that can't pay it off, therefor since they can't pay it off most of their economy goes towards the repayment. which makes life even worse. they are stuck in this 20 feet hole with no ladder or any tools.
 
-**World bank and IMF:**
+**World bank and IMF:** the companies that would provide loans to governments, they were mainly established after world war 2 for cities to rebuild.
 
-**Kenya trapped in poverty**:
+**Kenya trapped in poverty**: the stereotypical country you expect to fail because of bad farmland, no way to get money and having corrupt government leaders.
 
-**World bank leading by region graph:**
+**World bank leading by region graph:** East Asia and pacific are leading.
 
-**Highly indebted poor countries map:**
-
-**Corrupt leaders and problems:**
+**Highly indebted poor countries map:** countries that are high in debt and can't afford to repay causing them to spend more money on repayment then healthcare.
 
 ## **The vulnerable ones**:
 Text here
