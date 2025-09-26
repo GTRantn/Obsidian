@@ -41,60 +41,57 @@ its estimated that 800 million people in developing countries are starving or ma
 **World bank leading by region graph:** East Asia and pacific are leading.
 
 **Highly indebted poor countries map:** countries that are high in debt and can't afford to repay causing them to spend more money on repayment then healthcare.
-
+   
 ## **The vulnerable ones**:
-Text here
+Women and children are seen without rights, usually it's because of religion or country's culture, which was a thing in developed countries but not anymore because they changed. but they developing countries have not.
 
-**The position of women**: 
+**The position of women**: Women in some poor countries don't have rights and can work up to long hours, some
 
-**Amina's Day:**
+**Amina's Day:** wakes up at 5am, goes to bed at 10pm. she works 17 hours every single day, without a single weekend.
 
-**Women in Niger:**
+**Women in Niger:** they make little to no money, even though Niger is one of the largest uranium exports.
 
-**Children in Crisis**
+**Children in Crisis**: child risk, is a big thing, it shows how much risk a child would be if they lived in a country. like war or starvation.
 
-**PNR:**
+**PNR:** Progress of nations report, is based on child-risk factors that are scaled from 0-100, such as the mortality rate of children under five, children who are underweight, children who did not attend primary school, child at war and risks from diseases.
 
-**UNICEF:**
+**UNICEF:** United nations children's fund, which publishes the PNR.
 
 **Comparing Canada to the highest child risk countries:**
+Canada: has a rating of less then 5, very safe
+Angola: has a rating of 96, very unsafe
 
-**Under-five mortality rate**:
+**Under-five mortality rate**: most common case is mal-nutrition and starvation.
 
-**Children at war:**
+**Children at war:** 540 million children are at risk because of civil wars, land mines and other armed conflicts.
 
-**Working children:**
+**Working children:** children who work many hours a day, some taken into legal slavery (food costs: 1$, they make $1 a day.)
 
 ## **The Health crisis**:
-Text here
+Many people in developing countries also face health problems such as diseases and access to clean water (with soap).
 
-**Clean water: A basic health**:
+**Clean water: A basic health**: as of 2025, there is 2.2 billion people without clean water, meaning that 1 in 4 person does not have clean water, which is a big problem, since water is a basic human need that everyone needs.
 
-**Diseases found in water**:
+**Diseases found in water**: diseases can also be found in dirty water, making access to clean drinking water a bigger deal. diseases can impact population growth and the economy as it takes money and effort to deal with it.
 
-**The scourge of epidemics**
+**HIV/AIDS**: a virus that destroys your immunity system, making you prone more to other viruses and diseases.
 
-**HIV/AIDS**
+**The HIV/AIDS pandemic**: on top of not having food, you also have to deal with HIV/AIDS simply because you have no clean drinking water, no soap and no education to even know what's going on. life must suck in these countries.
 
-**The HIV/AIDS pandemic**
+**Epidemic**: diseases outbreak that is spreading in a limited region.
 
-**HIV/AIDS infection rates in africa**
-
-**Epidemic**
-
-**Pandemic**
+**Pandemic**: a global outbreak that affects everyone.
 
 ## **Solutions**:
-Text here
+countries are now easing with the debt repayments, and giving aid!
 
-**Foreign Aid:**
+**Foreign Aid:** countries now give aid to developing countries in Africa.
 
-**Pros and cons of Aid:**
+**Pros and cons of Aid:** the aid that is given is western, meaning that they now have entered the western trade, which is something they might not want.
 
-**Canada's foreign aid program:**
+**Canada's foreign aid program:** Canada gives out money and western equipment to poorer countries.
 
 ## **Should Canada Link its foreign Aid to human rights?**
-Text here
 
 **The case for denying Aid:**
 
