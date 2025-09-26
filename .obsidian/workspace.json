@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Demography of Canada world chp 13.md",
+                "file": "Living Standards chp 14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Demography of Canada world chp 13"
+              "title": "Living Standards chp 14"
             }
           }
         ]
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ea0bd498db37d5f9",
@@ -184,6 +185,7 @@
   "active": "6249890639e57622",
   "lastOpenFiles": [
     "Demography of Canada world chp 13.md",
+    "Living Standards chp 14.md",
     "Demography of Canada world p.317-3.md",
     "Untitled.base",
     "2025-09-04.md",
