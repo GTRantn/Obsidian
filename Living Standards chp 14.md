@@ -93,14 +93,11 @@ countries are now easing with the debt repayments, and giving aid!
 
 ## **Should Canada Link its foreign Aid to human rights?**
 
-**The case for denying Aid:**
+**The case for denying Aid:** the money might not go to the correct people, saves money from being misused, and gives Canada a influence in world politics.
 
-**The case for giving Aid:**
+**The case for giving Aid:** ordinary people need food, medicine, and help. Canada has a duty to help during disasters, aid can improve relationships. some countries still need support.
 
-## **Global Problems, Local solutions:**
-Text here
-
-# Looking Back
+# Looking Back (on the test day)
 Text here
 
 Note to my self: I may have missed some terms, so go over and check the worksheets from the teacher for stuff on the test.
