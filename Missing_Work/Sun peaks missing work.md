@@ -12,5 +12,6 @@
 
 **Marketing:**
 - Test on Monday (check the 4ps/mixes)
+- You must hand
 - ==Check Thursday
 - ==Check Friday
